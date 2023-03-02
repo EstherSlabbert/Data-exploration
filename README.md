@@ -78,7 +78,7 @@ Programs that allow user to explore data using various methods.
 
 Esther Slabbert - super.ejs@gmail.com
 
-Project Link: [https://github.com/EstherSlabbert/Regression-models](https://github.com/EstherSlabbert/Regression-models)
+Project Link: [https://github.com/EstherSlabbert/Data-exploration](https://github.com/EstherSlabbert/Data-exploration)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
