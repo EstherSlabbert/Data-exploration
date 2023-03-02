@@ -37,8 +37,8 @@ This repository contains a simple data exploration projects created on Visual St
 
 ### Built With
 
-* [![Python]][python.org/downloads/]
-* [![VisualStudioCode]][https://code.visualstudio.com/download]
+* [Python](python.org/downloads/)
+* [VisualStudioCode](https://code.visualstudio.com/download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
