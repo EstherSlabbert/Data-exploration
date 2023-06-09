@@ -28,8 +28,7 @@ Data analysis and data visualizations for different data sets
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains a simple data exploration projects created on Visual Studio Code using Python.
-
+This repository contains a simple data exploration projects created on Visual Studio Code using Jupyter Notebook and Python. [Titanic Dataset Exploration](https://github.com/EstherSlabbert/Data-exploration/blob/main/titanic.ipynb) and [US Arrests Dataset Exploration](https://github.com/EstherSlabbert/Data-exploration/blob/main/us-arrests-data-exploration.ipynb).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -38,6 +37,7 @@ This repository contains a simple data exploration projects created on Visual St
 ### Built With
 
 * [Python](python.org/downloads/)
+* [Jupyter Notebook](https://jupyter.org/)
 * [VisualStudioCode](https://code.visualstudio.com/download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -58,7 +58,6 @@ To get a local copy up and running follow these simple example steps.
    ```
 3.  Run program(s) as you see fit.
    I used Visual Studio Code which can be found here: https://code.visualstudio.com/download.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
